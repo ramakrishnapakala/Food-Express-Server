@@ -1,4 +1,4 @@
-# 🌐 FoodFire Server
+# 🌐 FoodExpress Server
 
 A Food Express Server (Node.js web server) that fetches data from a third-party (Swiggy) API (Fix the CORS Issue) and exposes it to a client [🚀 FoodExpress ]
 
@@ -42,7 +42,7 @@ const data = await response.json();
 
 ## 🔮 Deploy the FoodExpress server
 
-Once you have tested the FoodFire server locally, you can deploy it to a production environment by following these steps.
+Once you have tested the FoodExpress server locally, you can deploy it to a production environment by following these steps.
 
 1. Create an account on [Render](https://render.com/) if you haven't already.
 2. Click on the `New +` button and select `Web Service` from the dropdown menu.
